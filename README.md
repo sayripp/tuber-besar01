@@ -36,7 +36,7 @@ Pastikan Anda telah menginstal compiler C (seperti GCC) di komputer Anda.
 2.  Buka terminal atau command prompt di direktori folder proyek.
 3.  **Kompilasi** kode sumber `ProyekKelompok6.c`:
     ```bash
-    gcc masanis.c -o game
+    gcc ProyekKelompok6.c -o game
     ```
 4.  **Jalankan** program:
     * **Windows**:
