@@ -34,7 +34,7 @@ Pastikan Anda telah menginstal compiler C (seperti GCC) di komputer Anda.
 
 1.  **Clone atau Download** repository ini.
 2.  Buka terminal atau command prompt di direktori folder proyek.
-3.  **Kompilasi** kode sumber `masanis.c`:
+3.  **Kompilasi** kode sumber `ProyekKelompok6.c`:
     ```bash
     gcc masanis.c -o game
     ```
